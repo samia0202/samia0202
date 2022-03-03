@@ -1,0 +1,16 @@
+Tennis! - The game
+
+HOW TO PLAY: USE KEYS TO MOVE THE TENNIS RACKET( A, S , UP AND DOWN KEYS) . IF YOU MISS THE BALL THE OTHER PLAYER SCORES AND VICE VERSA. TO PLAY ANOTHER ROUND CLICK THE 'X' BUTTON.
+
+********PLEASE MAKE SURE THE CAPS LOCK IS OFF WHEN PLAYING*********
+
+This game is a simplified version of the game tennis. I based the code mainly from ping pong. I added my own sprites and added sound of actual tennis racket hitting
+the racket. For the colours, I decided to keep it light and pastel. If I could improve the game, I would add a timer and a loop that allows the user to try again instead of pressing the 'x' button. Also, I could've added levels to the game and make the game harder e.g. adding more balls or make the ball go faster.
+In the game, I added a splash screen that I created which was the hardest part since I had to create it using a module called easyGui.
+
+references:
+
+sound - http://free-loops.com/6015-hit-tennis-ball.html
+image sprite - https://image.pngaaa.com/988/4611988-middle.png
+tutorials that I was inspired by : https://www.youtube.com/watch?v=LH8WgrUWG_I&list=PLlEgNdBJEO-kXk2PyBxhSmo84hsO3HAz2
+
